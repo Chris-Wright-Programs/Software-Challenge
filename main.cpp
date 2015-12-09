@@ -5,7 +5,7 @@
 using namespace std;
 //Declaring functions
 float area(float w,float l);
-float paint_vol(float p,float w,float h,float l);
+float paint_vol(float w,float h,float l);
 float room_vol(float w,float h,float l);
 /*Setting global constant for paint volume calculations.
 It is the volume of paint needed to cover 1 m^2 taken from a product on the Dulux website
